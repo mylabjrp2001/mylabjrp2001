@@ -1,0 +1,34 @@
+{
+  "header": {
+    "host": "bankjrp2001@workpro: ~",
+    "lines": [
+      { "cmd": "whoami" },
+      { "out": "bankjrp2001 · full-stack developer @ Workpro", "style": "title" },
+      { "out": "I build back-office systems for businesses and run them on our own bare metal · Bangkok, TH", "style": "muted" },
+      { "cmd": "ls ~/open-source" },
+      { "out": "expo-persistent-background-location/", "style": "link" },
+      { "cmd": "" }
+    ]
+  },
+  "docker": {
+    "upSince": "2026-09-04T00:00:00+07:00",
+    "apps": [
+      "baanmefai", "gps", "hr-office", "checkin", "chatbot", "coupon",
+      "maid", "carcheck", "billdash", "ais-dashboard", "ais-form", "dmpsafety",
+      "dmp-auth", "dmp-fb-runner", "dmp-fb-console", "yalecom", "hipposlot", "true-status"
+    ],
+    "note": "postgres ×1 · cloudflared ×2 · one bare-metal box"
+  },
+  "languages": {
+    "top": 5,
+    "alias": { "Hack": "PHP" },
+    "colors": { "PHP": "#4F5D95" },
+    "exclude": []
+  },
+  "recent": {
+    "days": 30,
+    "max": 8,
+    "hideRepos": ["mylabjrp2001"],
+    "areas": {}
+  }
+}

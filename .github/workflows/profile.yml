@@ -1,0 +1,58 @@
+name: profile
+
+on:
+  schedule:
+    - cron: "0 23 * * *" # 06:00 Asia/Bangkok
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - profile.config.json
+      - scripts/**
+      - .github/workflows/profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Without GH_STATS_TOKEN the snake only sees what the public profile shows.
+      - name: Snake from the contribution calendar
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GH_STATS_TOKEN || github.token }}
+          outputs: |
+            dist/snake-light.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # No secret: renders from the committed data/stats.json instead of fetching.
+      - name: Build SVGs
+        env:
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: node scripts/build.mjs
+
+      # Committed as github-actions[bot], so the daily refresh never counts as my contribution.
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets data
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: refresh profile stats"
+            git push
+          fi
