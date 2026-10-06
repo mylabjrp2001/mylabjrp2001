@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="bankjrp2001@workpro:~$ whoami — full-stack developer at Workpro, building back-office systems and running them on our own bare metal" width="100%">
+  <img src="assets/header-light.svg" alt="Boot log of the production services, then whoami: bankjrp2001, full-stack developer at Workpro, building back-office systems and running them on our own bare metal" width="100%">
 </picture>
 
 <p>
@@ -21,8 +21,13 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/docker-dark.svg">
-  <img src="assets/docker-light.svg" alt="docker compose ps — the apps running in production on one bare-metal box" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg">
+  <img src="assets/neofetch-light.svg" alt="neofetch — the servers and dev machine behind these projects" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/services-dark.svg">
+  <img src="assets/services-light.svg" alt="Health of the apps running in production, checked hourly" width="100%">
 </picture>
 
 <p>
@@ -35,6 +40,16 @@
     <img src="assets/languages-light.svg" alt="Languages across all repositories, including private" width="49%">
   </picture>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/punch-dark.svg">
+  <img src="assets/punch-light.svg" alt="Punch card of commits by weekday and hour over the last 90 days" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg">
+  <img src="assets/oss-light.svg" alt="expo-persistent-background-location on npm — version, downloads in the last 30 days" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/recent-dark.svg">

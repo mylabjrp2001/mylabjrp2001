@@ -1,0 +1,44 @@
+name: health
+
+on:
+  schedule:
+    - cron: "15 * * * *" # hourly
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Same group as the daily profile run, so the two never push over each other.
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Logs are public: the script prints app names and counts only, never URLs.
+      - name: Health check
+        env:
+          HEALTH_URLS: ${{ secrets.HEALTH_URLS }}
+        run: node scripts/build.mjs --health
+
+      # The card carries no timestamp, so this only commits when a status actually changes.
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/services-*.svg data/health.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: health status changed"
+            git pull --rebase
+            git push
+          fi

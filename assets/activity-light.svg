@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="445" height="240" viewBox="0 0 445 240" role="img" aria-label="$ git stats --last 12mo">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="445" height="240" viewBox="0 0 445 240" role="img" aria-label="$ git stats --last 12mo">
 <style>
-.k-t{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#1f2328}
+.k-t{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#1f2328;white-space:pre}
 .k-m{fill:#59636e}
 .k-g{fill:#1a7f37}
+.k-r{fill:#cf222e}
 .k-b{fill:#0969da}
 
 </style>
@@ -12,21 +13,21 @@
 <rect width="445" height="36" fill="#f6f8fa"/>
 <line x1="0" y1="35.5" x2="445" y2="35.5" stroke="#d1d9e0"/>
 <circle cx="18" cy="18" r="5.5" fill="#ff5f57"/><circle cx="36" cy="18" r="5.5" fill="#febc2e"/><circle cx="54" cy="18" r="5.5" fill="#28c840"/>
-<text x="72" y="22.5" class="k-t k-m" font-size="12.5">$ git stats --last 12mo</text>
-<text x="22" y="86" class="k-t" font-size="32" font-weight="700">1,337</text>
-<text x="22" y="108" class="k-t k-m" font-size="12.5">contributions · last 12 months · incl. private</text>
+<text xml:space="preserve" x="72" y="22.5" class="k-t k-m" font-size="12.5">$ git stats --last 12mo</text>
+<text xml:space="preserve" x="22" y="86" class="k-t" font-size="32" font-weight="700">1,345</text>
+<text xml:space="preserve" x="22" y="108" class="k-t k-m" font-size="12.5">contributions · last 12 months · incl. private</text>
 <line x1="22" y1="124" x2="423" y2="124" stroke="#eaeef2"/>
-<text x="22" y="141.5" class="k-t" font-size="13">repositories</text>
-<text x="423" y="141.5" class="k-t" font-size="13" text-anchor="end" font-weight="600">38</text>
+<text xml:space="preserve" x="22" y="141.5" class="k-t" font-size="13">repositories</text>
+<text xml:space="preserve" x="423" y="141.5" class="k-t" font-size="13" text-anchor="end" font-weight="600">38</text>
 <line x1="22" y1="150" x2="423" y2="150" stroke="#eaeef2"/>
-<text x="22" y="167.5" class="k-t" font-size="13">private</text>
-<text x="423" y="167.5" class="k-t" font-size="13" text-anchor="end" font-weight="600">33</text>
+<text xml:space="preserve" x="22" y="167.5" class="k-t" font-size="13">private</text>
+<text xml:space="preserve" x="423" y="167.5" class="k-t" font-size="13" text-anchor="end" font-weight="600">33</text>
 <line x1="22" y1="176" x2="423" y2="176" stroke="#eaeef2"/>
-<text x="22" y="193.5" class="k-t" font-size="13">active days</text>
-<text x="423" y="193.5" class="k-t" font-size="13" text-anchor="end" font-weight="600">56</text>
+<text xml:space="preserve" x="22" y="193.5" class="k-t" font-size="13">active days</text>
+<text xml:space="preserve" x="423" y="193.5" class="k-t" font-size="13" text-anchor="end" font-weight="600">57</text>
 <line x1="22" y1="202" x2="423" y2="202" stroke="#eaeef2"/>
-<text x="22" y="219.5" class="k-t" font-size="13">longest streak</text>
-<text x="423" y="219.5" class="k-t" font-size="13" text-anchor="end" font-weight="600">11 days</text>
+<text xml:space="preserve" x="22" y="219.5" class="k-t" font-size="13">longest streak</text>
+<text xml:space="preserve" x="423" y="219.5" class="k-t" font-size="13" text-anchor="end" font-weight="600">11 days</text>
 </g>
 <rect x="0.5" y="0.5" width="444" height="239" rx="8" fill="none" stroke="#d1d9e0"/>
 </svg>

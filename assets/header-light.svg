@@ -1,39 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="bankjrp2001@workpro: ~">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="340" viewBox="0 0 900 340" role="img" aria-label="bankjrp2001@workpro: ~">
 <style>
-.k-t{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#1f2328}
+.k-t{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#1f2328;white-space:pre}
 .k-m{fill:#59636e}
 .k-g{fill:#1a7f37}
+.k-r{fill:#cf222e}
 .k-b{fill:#0969da}
-@keyframes k-r0{from{transform:translateX(0)}to{transform:translateX(81px)}}
-@keyframes k-r1{from{transform:translateX(0)}to{transform:translateX(519.3px)}}
-@keyframes k-r2{from{transform:translateX(0)}to{transform:translateX(755.6px)}}
-@keyframes k-r3{from{transform:translateX(0)}to{transform:translateX(162.3px)}}
-@keyframes k-r4{from{transform:translateX(0)}to{transform:translateX(308.6px)}}
-@keyframes k-r5{from{transform:translateX(0)}to{transform:translateX(32.3px)}}
+@keyframes k-r0{from{transform:translateX(0)}to{transform:translateX(284.2px)}}
+@keyframes k-r1{from{transform:translateX(0)}to{transform:translateX(406.1px)}}
+@keyframes k-r2{from{transform:translateX(0)}to{transform:translateX(292.3px)}}
+@keyframes k-r3{from{transform:translateX(0)}to{transform:translateX(243.6px)}}
+@keyframes k-r4{from{transform:translateX(0)}to{transform:translateX(292.3px)}}
+@keyframes k-r5{from{transform:translateX(0)}to{transform:translateX(162.3px)}}
+@keyframes k-r6{from{transform:translateX(0)}to{transform:translateX(333px)}}
+@keyframes k-r7{from{transform:translateX(0)}to{transform:translateX(81px)}}
+@keyframes k-r8{from{transform:translateX(0)}to{transform:translateX(519.3px)}}
+@keyframes k-r9{from{transform:translateX(0)}to{transform:translateX(755.6px)}}
+@keyframes k-r10{from{transform:translateX(0)}to{transform:translateX(32.3px)}}
 .k-cur{animation:k-bl 1.1s step-end infinite}
 @keyframes k-bl{50%{opacity:0}}
 @media (prefers-reduced-motion:reduce){.k-cv{animation:none!important}.k-cur{animation:none}}
 </style>
-<defs><clipPath id="k-win"><rect x="0.5" y="0.5" width="899" height="229" rx="8"/></clipPath></defs>
+<defs><clipPath id="k-win"><rect x="0.5" y="0.5" width="899" height="339" rx="8"/></clipPath></defs>
 <g clip-path="url(#k-win)">
-<rect width="900" height="230" fill="#ffffff"/>
+<rect width="900" height="340" fill="#ffffff"/>
 <rect width="900" height="36" fill="#f6f8fa"/>
 <line x1="0" y1="35.5" x2="900" y2="35.5" stroke="#d1d9e0"/>
 <circle cx="18" cy="18" r="5.5" fill="#ff5f57"/><circle cx="36" cy="18" r="5.5" fill="#febc2e"/><circle cx="54" cy="18" r="5.5" fill="#28c840"/>
-<text x="72" y="22.5" class="k-t k-m" font-size="12.5">bankjrp2001@workpro: ~</text>
-<text x="24" y="65.7" class="k-t" font-size="13.5"><tspan class="k-g">$</tspan> whoami</text>
-<rect class="k-cv" x="21" y="50" width="81" height="22" fill="#ffffff" style="transform:translateX(81px);animation:k-r0 0.5s steps(10,end) 0.5s backwards"/>
-<text x="24" y="94.7" class="k-t" font-size="19" font-weight="700">bankjrp2001 · full-stack developer @ Workpro</text>
-<rect class="k-cv" x="21" y="72" width="519.3" height="32" fill="#ffffff" style="transform:translateX(519.3px);animation:k-r1 0.1s steps(1,end) 1.3s backwards"/>
-<text x="24" y="119.7" class="k-t k-m" font-size="13.5">I build back-office systems for businesses and run them on our own bare metal · Bangkok, TH</text>
-<rect class="k-cv" x="21" y="104" width="755.6" height="22" fill="#ffffff" style="transform:translateX(755.6px);animation:k-r2 0.1s steps(1,end) 1.5s backwards"/>
-<text x="24" y="151.7" class="k-t" font-size="13.5"><tspan class="k-g">$</tspan> ls ~/open-source</text>
-<rect class="k-cv" x="21" y="136" width="162.3" height="22" fill="#ffffff" style="transform:translateX(162.3px);animation:k-r3 1.1s steps(20,end) 2.1s backwards"/>
-<text x="24" y="173.7" class="k-t k-b" font-size="13.5">expo-persistent-background-location/</text>
-<rect class="k-cv" x="21" y="158" width="308.6" height="22" fill="#ffffff" style="transform:translateX(308.6px);animation:k-r4 0.1s steps(1,end) 3.5s backwards"/>
-<text x="24" y="205.7" class="k-t" font-size="13.5"><tspan class="k-g">$</tspan> </text>
-<rect class="k-cur" x="40.3" y="194.7" width="8.1" height="14.2" fill="#1a7f37"/>
-<rect class="k-cv" x="21" y="190" width="32.3" height="22" fill="#ffffff" style="transform:translateX(32.3px);animation:k-r5 0.3s steps(4,end) 4.1s backwards"/>
+<text xml:space="preserve" x="72" y="22.5" class="k-t k-m" font-size="12.5">bankjrp2001@workpro: ~</text>
+<text xml:space="preserve" x="24" y="65.7" class="k-t" font-size="13.5">[  <tspan class="k-g">OK</tspan>  ] Started <tspan font-weight="600">postgres.service</tspan></text>
+<rect class="k-cv" x="21" y="50" width="284.2" height="22" fill="#ffffff" style="transform:translateX(284.2px);animation:k-r0 0.1s steps(1,end) 0.4s backwards"/>
+<text xml:space="preserve" x="24" y="87.7" class="k-t" font-size="13.5">[  <tspan class="k-g">OK</tspan>  ] Started <tspan font-weight="600">cloudflared.service</tspan> <tspan class="k-m">(2 tunnels)</tspan></text>
+<rect class="k-cv" x="21" y="72" width="406.1" height="22" fill="#ffffff" style="transform:translateX(406.1px);animation:k-r1 0.1s steps(1,end) 0.6s backwards"/>
+<text xml:space="preserve" x="24" y="109.7" class="k-t" font-size="13.5">[  <tspan class="k-g">OK</tspan>  ] Started <tspan font-weight="600">baanmefai.service</tspan></text>
+<rect class="k-cv" x="21" y="94" width="292.3" height="22" fill="#ffffff" style="transform:translateX(292.3px);animation:k-r2 0.1s steps(1,end) 0.8s backwards"/>
+<text xml:space="preserve" x="24" y="131.7" class="k-t" font-size="13.5">[  <tspan class="k-g">OK</tspan>  ] Started <tspan font-weight="600">gps.service</tspan></text>
+<rect class="k-cv" x="21" y="116" width="243.6" height="22" fill="#ffffff" style="transform:translateX(243.6px);animation:k-r3 0.1s steps(1,end) 1s backwards"/>
+<text xml:space="preserve" x="24" y="153.7" class="k-t" font-size="13.5">[  <tspan class="k-g">OK</tspan>  ] Started <tspan font-weight="600">hr-office.service</tspan></text>
+<rect class="k-cv" x="21" y="138" width="292.3" height="22" fill="#ffffff" style="transform:translateX(292.3px);animation:k-r4 0.1s steps(1,end) 1.2s backwards"/>
+<text xml:space="preserve" x="24" y="175.7" class="k-t k-m" font-size="13.5">         … 15 more</text>
+<rect class="k-cv" x="21" y="160" width="162.3" height="22" fill="#ffffff" style="transform:translateX(162.3px);animation:k-r5 0.1s steps(1,end) 1.3s backwards"/>
+<text xml:space="preserve" x="24" y="197.7" class="k-t" font-size="13.5">[  <tspan class="k-g">OK</tspan>  ] Reached target <tspan font-weight="600">18 apps online</tspan>.</text>
+<rect class="k-cv" x="21" y="182" width="333" height="22" fill="#ffffff" style="transform:translateX(333px);animation:k-r6 0.1s steps(1,end) 1.5s backwards"/>
+<text xml:space="preserve" x="24" y="229.7" class="k-t" font-size="13.5"><tspan class="k-g">$</tspan> whoami</text>
+<rect class="k-cv" x="21" y="214" width="81" height="22" fill="#ffffff" style="transform:translateX(81px);animation:k-r7 0.5s steps(10,end) 2.2s backwards"/>
+<text xml:space="preserve" x="24" y="258.7" class="k-t" font-size="19" font-weight="700">bankjrp2001 · full-stack developer @ Workpro</text>
+<rect class="k-cv" x="21" y="236" width="519.3" height="32" fill="#ffffff" style="transform:translateX(519.3px);animation:k-r8 0.1s steps(1,end) 2.9s backwards"/>
+<text xml:space="preserve" x="24" y="283.7" class="k-t k-m" font-size="13.5">I build back-office systems for businesses and run them on our own bare metal · Bangkok, TH</text>
+<rect class="k-cv" x="21" y="268" width="755.6" height="22" fill="#ffffff" style="transform:translateX(755.6px);animation:k-r9 0.1s steps(1,end) 3.1s backwards"/>
+<text xml:space="preserve" x="24" y="315.7" class="k-t" font-size="13.5"><tspan class="k-g">$</tspan> </text>
+<rect class="k-cur" x="40.3" y="304.7" width="8.1" height="14.2" fill="#1a7f37"/>
+<rect class="k-cv" x="21" y="300" width="32.3" height="22" fill="#ffffff" style="transform:translateX(32.3px);animation:k-r10 0.3s steps(4,end) 3.7s backwards"/>
 </g>
-<rect x="0.5" y="0.5" width="899" height="229" rx="8" fill="none" stroke="#d1d9e0"/>
+<rect x="0.5" y="0.5" width="899" height="339" rx="8" fill="none" stroke="#d1d9e0"/>
 </svg>

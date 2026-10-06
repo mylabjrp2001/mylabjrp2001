@@ -2,33 +2,128 @@
   "header": {
     "host": "bankjrp2001@workpro: ~",
     "lines": [
-      { "cmd": "whoami" },
-      { "out": "bankjrp2001 · full-stack developer @ Workpro", "style": "title" },
-      { "out": "I build back-office systems for businesses and run them on our own bare metal · Bangkok, TH", "style": "muted" },
-      { "cmd": "ls ~/open-source" },
-      { "out": "expo-persistent-background-location/", "style": "link" },
-      { "cmd": "" }
+      {
+        "ok": "postgres.service"
+      },
+      {
+        "ok": "cloudflared.service",
+        "note": "(2 tunnels)"
+      },
+      {
+        "ok": "baanmefai.service"
+      },
+      {
+        "ok": "gps.service"
+      },
+      {
+        "ok": "hr-office.service"
+      },
+      {
+        "out": "         … 15 more",
+        "style": "muted"
+      },
+      {
+        "target": "18 apps online"
+      },
+      {
+        "cmd": "whoami"
+      },
+      {
+        "out": "bankjrp2001 · full-stack developer @ Workpro",
+        "style": "title"
+      },
+      {
+        "out": "I build back-office systems for businesses and run them on our own bare metal · Bangkok, TH",
+        "style": "muted"
+      },
+      {
+        "cmd": ""
+      }
+    ]
+  },
+  "neofetch": {
+    "title": "bankjrp2001@workpro",
+    "art": [
+      "+--------------------+",
+      "| ::: ========  o o  |",
+      "|--------------------|",
+      "| ::: ========  o o  |",
+      "|--------------------|",
+      "| ::: ========  o o  |",
+      "|--------------------|",
+      "| ////////////////// |",
+      "+--------------------+",
+      "   |              |"
+    ],
+    "rows": [
+      ["OS", "Ubuntu Server"],
+      ["Host", "bare metal · on-prem"],
+      ["Uptime", "{uptime}"],
+      ["CPU", "AMD Ryzen 9 9950X / AMD Ryzen Threadripper 3970X"],
+      ["Memory", "64 GB / 128 GB"],
+      ["Disk", "NVMe 1 TB + 4 TB / NVMe 1 TB + 4 TB"],
+      ["NAS", "4 TB"],
+      ["Containers", "{apps} apps · postgres · cloudflared ×2"],
+      ["Ingress", "Cloudflare Tunnel"],
+      ["Repos", "{repos} ({private} private)"],
+      ["Dev", "MacBook Pro M5 Pro · 24 GB · 1 TB"],
+      ["Editor", "VS Code + Claude Code"]
     ]
   },
   "docker": {
     "upSince": "2026-09-04T00:00:00+07:00",
     "apps": [
-      "baanmefai", "gps", "hr-office", "checkin", "chatbot", "coupon",
-      "maid", "carcheck", "billdash", "ais-dashboard", "ais-form", "dmpsafety",
-      "dmp-auth", "dmp-fb-runner", "dmp-fb-console", "yalecom", "hipposlot", "true-status"
+      "baanmefai",
+      "gps",
+      "hr-office",
+      "checkin",
+      "chatbot",
+      "coupon",
+      "maid",
+      "carcheck",
+      "billdash",
+      "ais-dashboard",
+      "ais-form",
+      "dmpsafety",
+      "dmp-auth",
+      "dmp-fb-runner",
+      "dmp-fb-console",
+      "yalecom",
+      "hipposlot",
+      "true-status"
     ],
     "note": "postgres ×1 · cloudflared ×2 · one bare-metal box"
   },
+  "health": {
+    "note": "checked hourly from GitHub Actions"
+  },
   "languages": {
     "top": 5,
-    "alias": { "Hack": "PHP" },
-    "colors": { "PHP": "#4F5D95" },
+    "alias": {
+      "Hack": "PHP"
+    },
+    "colors": {
+      "PHP": "#4F5D95"
+    },
     "exclude": []
   },
+  "punch": {
+    "days": 90
+  },
+  "oss": [
+    {
+      "npm": "expo-persistent-background-location",
+      "repo": "expo-persistent-background-location",
+      "tagline": "Free, open-source Expo module for continuous background GPS that survives app-kill.",
+      "platforms": "Android (Kotlin) · iOS"
+    }
+  ],
   "recent": {
     "days": 30,
     "max": 8,
-    "hideRepos": ["mylabjrp2001"],
+    "hideRepos": [
+      "mylabjrp2001"
+    ],
     "areas": {}
   }
 }

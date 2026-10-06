@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="256" viewBox="0 0 900 256" role="img" aria-label="$ docker compose ps">
+<style>
+.k-t{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#1f2328;white-space:pre}
+.k-m{fill:#59636e}
+.k-g{fill:#1a7f37}
+.k-r{fill:#cf222e}
+.k-b{fill:#0969da}
+
+</style>
+<defs><clipPath id="k-win"><rect x="0.5" y="0.5" width="899" height="255" rx="8"/></clipPath></defs>
+<g clip-path="url(#k-win)">
+<rect width="900" height="256" fill="#ffffff"/>
+<rect width="900" height="36" fill="#f6f8fa"/>
+<line x1="0" y1="35.5" x2="900" y2="35.5" stroke="#d1d9e0"/>
+<circle cx="18" cy="18" r="5.5" fill="#ff5f57"/><circle cx="36" cy="18" r="5.5" fill="#febc2e"/><circle cx="54" cy="18" r="5.5" fill="#28c840"/>
+<text xml:space="preserve" x="72" y="22.5" class="k-t k-m" font-size="12.5">$ docker compose ps</text>
+<text xml:space="preserve" x="22" y="66" class="k-t k-m" font-size="13">NAME</text>
+<text xml:space="preserve" x="281.3" y="66" class="k-t k-m" font-size="13" text-anchor="end">STATUS</text>
+<text xml:space="preserve" x="22" y="89" class="k-t" font-size="13">baanmefai</text>
+<text xml:space="preserve" x="281.3" y="89" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="194.1" cy="84.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="22" y="112" class="k-t" font-size="13">gps</text>
+<text xml:space="preserve" x="281.3" y="112" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="194.1" cy="107.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="22" y="135" class="k-t" font-size="13">hr-office</text>
+<text xml:space="preserve" x="281.3" y="135" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="194.1" cy="130.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="22" y="158" class="k-t" font-size="13">checkin</text>
+<text xml:space="preserve" x="281.3" y="158" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="194.1" cy="153.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="22" y="181" class="k-t" font-size="13">chatbot</text>
+<text xml:space="preserve" x="281.3" y="181" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="194.1" cy="176.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="22" y="204" class="k-t" font-size="13">coupon</text>
+<text xml:space="preserve" x="281.3" y="204" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="194.1" cy="199.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="307.3" y="66" class="k-t k-m" font-size="13">NAME</text>
+<text xml:space="preserve" x="566.7" y="66" class="k-t k-m" font-size="13" text-anchor="end">STATUS</text>
+<text xml:space="preserve" x="307.3" y="89" class="k-t" font-size="13">maid</text>
+<text xml:space="preserve" x="566.7" y="89" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="479.4" cy="84.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="307.3" y="112" class="k-t" font-size="13">carcheck</text>
+<text xml:space="preserve" x="566.7" y="112" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="479.4" cy="107.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="307.3" y="135" class="k-t" font-size="13">billdash</text>
+<text xml:space="preserve" x="566.7" y="135" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="479.4" cy="130.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="307.3" y="158" class="k-t" font-size="13">ais-dashboard</text>
+<text xml:space="preserve" x="566.7" y="158" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="479.4" cy="153.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="307.3" y="181" class="k-t" font-size="13">ais-form</text>
+<text xml:space="preserve" x="566.7" y="181" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="479.4" cy="176.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="307.3" y="204" class="k-t" font-size="13">dmpsafety</text>
+<text xml:space="preserve" x="566.7" y="204" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="479.4" cy="199.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="592.7" y="66" class="k-t k-m" font-size="13">NAME</text>
+<text xml:space="preserve" x="852" y="66" class="k-t k-m" font-size="13" text-anchor="end">STATUS</text>
+<text xml:space="preserve" x="592.7" y="89" class="k-t" font-size="13">dmp-auth</text>
+<text xml:space="preserve" x="852" y="89" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="764.7" cy="84.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="592.7" y="112" class="k-t" font-size="13">dmp-fb-runner</text>
+<text xml:space="preserve" x="852" y="112" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="764.7" cy="107.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="592.7" y="135" class="k-t" font-size="13">dmp-fb-console</text>
+<text xml:space="preserve" x="852" y="135" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="764.7" cy="130.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="592.7" y="158" class="k-t" font-size="13">yalecom</text>
+<text xml:space="preserve" x="852" y="158" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="764.7" cy="153.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="592.7" y="181" class="k-t" font-size="13">hipposlot</text>
+<text xml:space="preserve" x="852" y="181" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="764.7" cy="176.5" r="3.5" fill="#1a7f37"/>
+<text xml:space="preserve" x="592.7" y="204" class="k-t" font-size="13">true-status</text>
+<text xml:space="preserve" x="852" y="204" class="k-t k-g" font-size="13" text-anchor="end">Up 4 weeks</text>
+<circle cx="764.7" cy="199.5" r="3.5" fill="#1a7f37"/>
+<line x1="22" y1="216" x2="878" y2="216" stroke="#d1d9e0" stroke-dasharray="3 4"/>
+<text xml:space="preserve" x="22" y="238" class="k-t k-m" font-size="13">18 apps · postgres ×1 · cloudflared ×2 · one bare-metal box</text>
+</g>
+<rect x="0.5" y="0.5" width="899" height="255" rx="8" fill="none" stroke="#d1d9e0"/>
+</svg>

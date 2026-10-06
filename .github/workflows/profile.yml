@@ -38,10 +38,12 @@ jobs:
         with:
           node-version: 20
 
-      # No secret: renders from the committed data/stats.json instead of fetching.
+      # No GH_STATS_TOKEN: renders from the committed data/stats.json instead of fetching.
+      # No HEALTH_URLS: the services card falls back to docker-style uptime.
       - name: Build SVGs
         env:
           GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+          HEALTH_URLS: ${{ secrets.HEALTH_URLS }}
         run: node scripts/build.mjs
 
       # Committed as github-actions[bot], so the daily refresh never counts as my contribution.
@@ -54,5 +56,6 @@ jobs:
             echo "no changes"
           else
             git commit -m "chore: refresh profile stats"
+            git pull --rebase
             git push
           fi

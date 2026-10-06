@@ -29,3 +29,17 @@ gh secret set GH_STATS_TOKEN -R mylabjrp2001/mylabjrp2001
 gh workflow run profile -R mylabjrp2001/mylabjrp2001
 ```
 token หมดอายุ → workflow ขึ้นแดง (GraphQL 401) → สร้างใหม่แล้ว `gh secret set` ซ้ำ
+
+## URL ของแอป (`HEALTH_URLS`)
+ใช้ให้ชิ้น services เช็กแอปจริงทุกชั่วโมง · ไม่มี secret = ชิ้นนั้นแสดงเป็น docker ps "Up N weeks" แทน
+
+รูปแบบ: JSON บรรทัดเดียว key = ชื่อแอปตาม `docker.apps` ใน config · แอปที่ไม่ใส่จะขึ้น "—" (not monitored)
+```json
+{"baanmefai":"https://...","gps":"https://...","hr-office":"https://..."}
+```
+ตั้งค่า (วางตอนถาม · **อย่าเก็บเป็นไฟล์ใน repo**):
+```bash
+gh secret set HEALTH_URLS -R mylabjrp2001/mylabjrp2001
+gh workflow run health -R mylabjrp2001/mylabjrp2001
+```
+ผลลัพธ์: ต่ำกว่า 500 = up (รวม 302/401/403 ที่เป็นหน้า login) · 5xx / Cloudflare 52x-530 / timeout 10 วิ = down

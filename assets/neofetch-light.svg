@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="402" viewBox="0 0 900 402" role="img" aria-label="$ neofetch">
+<style>
+.k-t{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#1f2328;white-space:pre}
+.k-m{fill:#59636e}
+.k-g{fill:#1a7f37}
+.k-r{fill:#cf222e}
+.k-b{fill:#0969da}
+
+</style>
+<defs><clipPath id="k-win"><rect x="0.5" y="0.5" width="899" height="401" rx="8"/></clipPath></defs>
+<g clip-path="url(#k-win)">
+<rect width="900" height="402" fill="#ffffff"/>
+<rect width="900" height="36" fill="#f6f8fa"/>
+<line x1="0" y1="35.5" x2="900" y2="35.5" stroke="#d1d9e0"/>
+<circle cx="18" cy="18" r="5.5" fill="#ff5f57"/><circle cx="36" cy="18" r="5.5" fill="#febc2e"/><circle cx="54" cy="18" r="5.5" fill="#28c840"/>
+<text xml:space="preserve" x="72" y="22.5" class="k-t k-m" font-size="12.5">$ neofetch</text>
+<text xml:space="preserve" x="24" y="66" class="k-t k-g" font-size="13">+--------------------+</text>
+<text xml:space="preserve" x="24" y="84" class="k-t k-g" font-size="13">| ::: ========  o o  |</text>
+<text xml:space="preserve" x="24" y="102" class="k-t k-g" font-size="13">|--------------------|</text>
+<text xml:space="preserve" x="24" y="120" class="k-t k-g" font-size="13">| ::: ========  o o  |</text>
+<text xml:space="preserve" x="24" y="138" class="k-t k-g" font-size="13">|--------------------|</text>
+<text xml:space="preserve" x="24" y="156" class="k-t k-g" font-size="13">| ::: ========  o o  |</text>
+<text xml:space="preserve" x="24" y="174" class="k-t k-g" font-size="13">|--------------------|</text>
+<text xml:space="preserve" x="24" y="192" class="k-t k-g" font-size="13">| ////////////////// |</text>
+<text xml:space="preserve" x="24" y="210" class="k-t k-g" font-size="13">+--------------------+</text>
+<text xml:space="preserve" x="24" y="228" class="k-t k-g" font-size="13">   |              |</text>
+<text xml:space="preserve" x="232.2" y="66" class="k-t" font-size="13" font-weight="600"><tspan class="k-g">bankjrp2001</tspan>@<tspan class="k-g">workpro</tspan></text>
+<text xml:space="preserve" x="232.2" y="88" class="k-t k-m" font-size="13">-------------------</text>
+<text xml:space="preserve" x="232.2" y="110" class="k-t k-b" font-size="13" font-weight="600">OS</text>
+<text xml:space="preserve" x="326.4" y="110" class="k-t" font-size="13">Ubuntu Server</text>
+<text xml:space="preserve" x="232.2" y="132" class="k-t k-b" font-size="13" font-weight="600">Host</text>
+<text xml:space="preserve" x="326.4" y="132" class="k-t" font-size="13">bare metal · on-prem</text>
+<text xml:space="preserve" x="232.2" y="154" class="k-t k-b" font-size="13" font-weight="600">Uptime</text>
+<text xml:space="preserve" x="326.4" y="154" class="k-t" font-size="13">4 weeks</text>
+<text xml:space="preserve" x="232.2" y="176" class="k-t k-b" font-size="13" font-weight="600">CPU</text>
+<text xml:space="preserve" x="326.4" y="176" class="k-t" font-size="13">AMD Ryzen 9 9950X / AMD Ryzen Threadripper 3970X</text>
+<text xml:space="preserve" x="232.2" y="198" class="k-t k-b" font-size="13" font-weight="600">Memory</text>
+<text xml:space="preserve" x="326.4" y="198" class="k-t" font-size="13">64 GB / 128 GB</text>
+<text xml:space="preserve" x="232.2" y="220" class="k-t k-b" font-size="13" font-weight="600">Disk</text>
+<text xml:space="preserve" x="326.4" y="220" class="k-t" font-size="13">NVMe 1 TB + 4 TB / NVMe 1 TB + 4 TB</text>
+<text xml:space="preserve" x="232.2" y="242" class="k-t k-b" font-size="13" font-weight="600">NAS</text>
+<text xml:space="preserve" x="326.4" y="242" class="k-t" font-size="13">4 TB</text>
+<text xml:space="preserve" x="232.2" y="264" class="k-t k-b" font-size="13" font-weight="600">Containers</text>
+<text xml:space="preserve" x="326.4" y="264" class="k-t" font-size="13">18 apps · postgres · cloudflared ×2</text>
+<text xml:space="preserve" x="232.2" y="286" class="k-t k-b" font-size="13" font-weight="600">Ingress</text>
+<text xml:space="preserve" x="326.4" y="286" class="k-t" font-size="13">Cloudflare Tunnel</text>
+<text xml:space="preserve" x="232.2" y="308" class="k-t k-b" font-size="13" font-weight="600">Repos</text>
+<text xml:space="preserve" x="326.4" y="308" class="k-t" font-size="13">38 (33 private)</text>
+<text xml:space="preserve" x="232.2" y="330" class="k-t k-b" font-size="13" font-weight="600">Dev</text>
+<text xml:space="preserve" x="326.4" y="330" class="k-t" font-size="13">MacBook Pro M5 Pro · 24 GB · 1 TB</text>
+<text xml:space="preserve" x="232.2" y="352" class="k-t k-b" font-size="13" font-weight="600">Editor</text>
+<text xml:space="preserve" x="326.4" y="352" class="k-t" font-size="13">VS Code + Claude Code</text>
+<rect x="232.2" y="368" width="24" height="14" fill="#24292f"/>
+<rect x="256.2" y="368" width="24" height="14" fill="#cf222e"/>
+<rect x="280.2" y="368" width="24" height="14" fill="#1a7f37"/>
+<rect x="304.2" y="368" width="24" height="14" fill="#9a6700"/>
+<rect x="328.2" y="368" width="24" height="14" fill="#0969da"/>
+<rect x="352.2" y="368" width="24" height="14" fill="#8250df"/>
+<rect x="376.2" y="368" width="24" height="14" fill="#1b7c83"/>
+<rect x="400.2" y="368" width="24" height="14" fill="#d0d7de"/>
+</g>
+<rect x="0.5" y="0.5" width="899" height="401" rx="8" fill="none" stroke="#d1d9e0"/>
+</svg>
