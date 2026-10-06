@@ -20,8 +20,8 @@
 <rect x="210.2" y="82.5" width="77.7" height="9" rx="2" fill="#2ea043"/>
 <text x="878" y="92" class="k-t k-m" font-size="13" text-anchor="end">110</text>
 <text x="22" y="116" class="k-t" font-size="13">ads-analysis</text>
-<rect x="210.2" y="106.5" width="35.3" height="9" rx="2" fill="#2ea043"/>
-<text x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">50</text>
+<rect x="210.2" y="106.5" width="36" height="9" rx="2" fill="#2ea043"/>
+<text x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">51</text>
 <text x="22" y="140" class="k-t" font-size="13">easyai</text>
 <rect x="210.2" y="130.5" width="12" height="9" rx="2" fill="#2ea043"/>
 <text x="878" y="140" class="k-t k-m" font-size="13" text-anchor="end">17</text>
@@ -37,7 +37,7 @@
 <text x="22" y="236" class="k-t" font-size="13">authentication-dmp</text>
 <rect x="210.2" y="226.5" width="4.2" height="9" rx="2" fill="#2ea043"/>
 <text x="878" y="236" class="k-t k-m" font-size="13" text-anchor="end">6</text>
-<text x="22" y="268" class="k-t k-m" font-size="12.5">1,089 commits across 10 repos · top 8 shown</text>
+<text x="22" y="268" class="k-t k-m" font-size="12.5">1,090 commits across 10 repos · top 8 shown</text>
 </g>
 <rect x="0.5" y="0.5" width="899" height="289" rx="8" fill="none" stroke="#30363d"/>
 </svg>

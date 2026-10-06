@@ -13,10 +13,10 @@
 <line x1="0" y1="35.5" x2="445" y2="35.5" stroke="#d1d9e0"/>
 <circle cx="18" cy="18" r="5.5" fill="#ff5f57"/><circle cx="36" cy="18" r="5.5" fill="#febc2e"/><circle cx="54" cy="18" r="5.5" fill="#28c840"/>
 <text x="72" y="22.5" class="k-t k-m" font-size="12.5">$ linguist --all-repos</text>
-<g clip-path="url(#k-lb)"><rect x="22" y="60" width="126.4" height="10" fill="#f1e05a"/><rect x="148.4" y="60" width="79.9" height="10" fill="#3178c6"/><rect x="228.3" y="60" width="72.7" height="10" fill="#3572A5"/><rect x="301" y="60" width="68.4" height="10" fill="#e34c26"/><rect x="369.5" y="60" width="29.6" height="10" fill="#882B0F"/><rect x="399" y="60" width="24" height="10" fill="#59636e"/></g>
+<g clip-path="url(#k-lb)"><rect x="22" y="60" width="126.5" height="10" fill="#f1e05a"/><rect x="148.5" y="60" width="79.8" height="10" fill="#3178c6"/><rect x="228.4" y="60" width="72.7" height="10" fill="#3572A5"/><rect x="301.1" y="60" width="68.4" height="10" fill="#e34c26"/><rect x="369.5" y="60" width="29.6" height="10" fill="#882B0F"/><rect x="399.1" y="60" width="23.9" height="10" fill="#59636e"/></g>
 <circle cx="27" cy="93.5" r="5" fill="#f1e05a"/>
 <text x="40" y="98" class="k-t" font-size="13">JavaScript</text>
-<text x="423" y="98" class="k-t k-m" font-size="13" text-anchor="end">31.5%</text>
+<text x="423" y="98" class="k-t k-m" font-size="13" text-anchor="end">31.6%</text>
 <circle cx="27" cy="117.5" r="5" fill="#3178c6"/>
 <text x="40" y="122" class="k-t" font-size="13">TypeScript</text>
 <text x="423" y="122" class="k-t k-m" font-size="13" text-anchor="end">19.9%</text>
