@@ -16,29 +16,29 @@
 <text xml:space="preserve" x="72" y="22.5" class="k-t k-m" font-size="12.5">$ git log --since=&quot;30 days ago&quot; --by-repo</text>
 <text xml:space="preserve" x="22" y="68" class="k-t" font-size="13">hr-office</text>
 <rect x="210.2" y="58.5" width="611.8" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="68" class="k-t k-m" font-size="13" text-anchor="end">866</text>
+<text xml:space="preserve" x="878" y="68" class="k-t k-m" font-size="13" text-anchor="end">847</text>
 <text xml:space="preserve" x="22" y="92" class="k-t" font-size="13">baanmefai-chatbot</text>
-<rect x="210.2" y="82.5" width="76.3" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="92" class="k-t k-m" font-size="13" text-anchor="end">108</text>
+<rect x="210.2" y="82.5" width="59.2" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="92" class="k-t k-m" font-size="13" text-anchor="end">82</text>
 <text xml:space="preserve" x="22" y="116" class="k-t" font-size="13">ads-analysis</text>
-<rect x="210.2" y="106.5" width="38.9" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">55</text>
+<rect x="210.2" y="106.5" width="57.1" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">79</text>
 <text xml:space="preserve" x="22" y="140" class="k-t" font-size="13">easyai</text>
-<rect x="210.2" y="130.5" width="12" height="9" rx="2" fill="#2da44e"/>
+<rect x="210.2" y="130.5" width="12.3" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="140" class="k-t k-m" font-size="13" text-anchor="end">17</text>
 <text xml:space="preserve" x="22" y="164" class="k-t" font-size="13">AIS-STOCKCHECK</text>
-<rect x="210.2" y="154.5" width="9.9" height="9" rx="2" fill="#2da44e"/>
+<rect x="210.2" y="154.5" width="10.1" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="164" class="k-t k-m" font-size="13" text-anchor="end">14</text>
 <text xml:space="preserve" x="22" y="188" class="k-t" font-size="13">baanmefai-oa-extension</text>
-<rect x="210.2" y="178.5" width="7.8" height="9" rx="2" fill="#2da44e"/>
+<rect x="210.2" y="178.5" width="7.9" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="188" class="k-t k-m" font-size="13" text-anchor="end">11</text>
 <text xml:space="preserve" x="22" y="212" class="k-t" font-size="13">Resume-CV</text>
-<rect x="210.2" y="202.5" width="5.7" height="9" rx="2" fill="#2da44e"/>
+<rect x="210.2" y="202.5" width="5.8" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="212" class="k-t k-m" font-size="13" text-anchor="end">8</text>
 <text xml:space="preserve" x="22" y="236" class="k-t" font-size="13">authentication-dmp</text>
-<rect x="210.2" y="226.5" width="4.2" height="9" rx="2" fill="#2da44e"/>
+<rect x="210.2" y="226.5" width="4.3" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="236" class="k-t k-m" font-size="13" text-anchor="end">6</text>
-<text xml:space="preserve" x="22" y="268" class="k-t k-m" font-size="12.5">1,092 commits across 10 repos · top 8 shown</text>
+<text xml:space="preserve" x="22" y="268" class="k-t k-m" font-size="12.5">1,078 commits across 13 repos · top 8 shown</text>
 </g>
 <rect x="0.5" y="0.5" width="899" height="289" rx="8" fill="none" stroke="#d1d9e0"/>
 </svg>
