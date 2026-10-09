@@ -31,7 +31,7 @@
 <text xml:space="preserve" x="232.2" y="132" class="k-t k-b" font-size="13" font-weight="600">Host</text>
 <text xml:space="preserve" x="326.4" y="132" class="k-t" font-size="13">bare metal · on-prem</text>
 <text xml:space="preserve" x="232.2" y="154" class="k-t k-b" font-size="13" font-weight="600">Uptime</text>
-<text xml:space="preserve" x="326.4" y="154" class="k-t" font-size="13">4 weeks</text>
+<text xml:space="preserve" x="326.4" y="154" class="k-t" font-size="13">5 weeks</text>
 <text xml:space="preserve" x="232.2" y="176" class="k-t k-b" font-size="13" font-weight="600">CPU</text>
 <text xml:space="preserve" x="326.4" y="176" class="k-t" font-size="13">AMD Ryzen 9 9950X / AMD Ryzen Threadripper 3970X</text>
 <text xml:space="preserve" x="232.2" y="198" class="k-t k-b" font-size="13" font-weight="600">Memory</text>
@@ -45,7 +45,7 @@
 <text xml:space="preserve" x="232.2" y="286" class="k-t k-b" font-size="13" font-weight="600">Ingress</text>
 <text xml:space="preserve" x="326.4" y="286" class="k-t" font-size="13">Cloudflare Tunnel</text>
 <text xml:space="preserve" x="232.2" y="308" class="k-t k-b" font-size="13" font-weight="600">Repos</text>
-<text xml:space="preserve" x="326.4" y="308" class="k-t" font-size="13">38 (33 private)</text>
+<text xml:space="preserve" x="326.4" y="308" class="k-t" font-size="13">39 (34 private)</text>
 <text xml:space="preserve" x="232.2" y="330" class="k-t k-b" font-size="13" font-weight="600">Dev</text>
 <text xml:space="preserve" x="326.4" y="330" class="k-t" font-size="13">MacBook Pro M5 Pro · 24 GB · 1 TB</text>
 <text xml:space="preserve" x="232.2" y="352" class="k-t k-b" font-size="13" font-weight="600">Editor</text>

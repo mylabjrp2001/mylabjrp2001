@@ -78,26 +78,26 @@
 <line x1="68" y1="157" x2="878" y2="157" stroke="#eaeef2"/>
 <circle cx="84.9" cy="157" r="6.3" fill="#1a7f37"/>
 <circle cx="354.9" cy="157" r="7.5" fill="#1a7f37"/>
-<circle cx="388.6" cy="157" r="8.5" fill="#1a7f37"/>
-<circle cx="422.4" cy="157" r="9.1" fill="#1a7f37"/>
-<circle cx="456.1" cy="157" r="7.7" fill="#1a7f37"/>
-<circle cx="489.9" cy="157" r="4.8" fill="#1a7f37"/>
-<circle cx="523.6" cy="157" r="9.1" fill="#1a7f37"/>
-<circle cx="557.4" cy="157" r="9.1" fill="#1a7f37"/>
-<circle cx="591.1" cy="157" r="10.5" fill="#1a7f37"/>
-<circle cx="624.9" cy="157" r="11.5" fill="#1a7f37"/>
-<circle cx="658.6" cy="157" r="3.6" fill="#1a7f37"/>
-<circle cx="726.1" cy="157" r="2.6" fill="#1a7f37"/>
-<circle cx="759.9" cy="157" r="4.8" fill="#1a7f37"/>
-<circle cx="793.6" cy="157" r="5.8" fill="#1a7f37"/>
-<circle cx="827.4" cy="157" r="7.9" fill="#1a7f37"/>
-<circle cx="861.1" cy="157" r="8.1" fill="#1a7f37"/>
+<circle cx="388.6" cy="157" r="9.1" fill="#1a7f37"/>
+<circle cx="422.4" cy="157" r="10" fill="#1a7f37"/>
+<circle cx="456.1" cy="157" r="9.1" fill="#1a7f37"/>
+<circle cx="489.9" cy="157" r="5.1" fill="#1a7f37"/>
+<circle cx="523.6" cy="157" r="9.3" fill="#1a7f37"/>
+<circle cx="557.4" cy="157" r="9.6" fill="#1a7f37"/>
+<circle cx="591.1" cy="157" r="11.1" fill="#1a7f37"/>
+<circle cx="624.9" cy="157" r="11.7" fill="#1a7f37"/>
+<circle cx="658.6" cy="157" r="4.8" fill="#1a7f37"/>
+<circle cx="726.1" cy="157" r="3.6" fill="#1a7f37"/>
+<circle cx="759.9" cy="157" r="8.3" fill="#1a7f37"/>
+<circle cx="793.6" cy="157" r="8.3" fill="#1a7f37"/>
+<circle cx="827.4" cy="157" r="9.6" fill="#1a7f37"/>
+<circle cx="861.1" cy="157" r="10.8" fill="#1a7f37"/>
 <text xml:space="preserve" x="22" y="191.5" class="k-t k-m" font-size="12">Fri</text>
 <line x1="68" y1="187" x2="878" y2="187" stroke="#eaeef2"/>
-<circle cx="84.9" cy="187" r="7.7" fill="#1a7f37"/>
+<circle cx="84.9" cy="187" r="9.5" fill="#1a7f37"/>
 <circle cx="118.6" cy="187" r="2.6" fill="#1a7f37"/>
-<circle cx="354.9" cy="187" r="6.6" fill="#1a7f37"/>
-<circle cx="388.6" cy="187" r="10.3" fill="#1a7f37"/>
+<circle cx="354.9" cy="187" r="8.7" fill="#1a7f37"/>
+<circle cx="388.6" cy="187" r="10.9" fill="#1a7f37"/>
 <circle cx="422.4" cy="187" r="5.1" fill="#1a7f37"/>
 <circle cx="456.1" cy="187" r="8.5" fill="#1a7f37"/>
 <circle cx="489.9" cy="187" r="3.2" fill="#1a7f37"/>
@@ -155,7 +155,7 @@
 <text xml:space="preserve" x="591.1" y="278" class="k-t k-m" font-size="11.5" text-anchor="middle">15:00</text>
 <text xml:space="preserve" x="692.4" y="278" class="k-t k-m" font-size="11.5" text-anchor="middle">18:00</text>
 <text xml:space="preserve" x="793.6" y="278" class="k-t k-m" font-size="11.5" text-anchor="middle">21:00</text>
-<text xml:space="preserve" x="22" y="306" class="k-t" font-size="12.5">peak <tspan font-weight="600">11:00</tspan> · busiest <tspan font-weight="600">Tue</tspan> · <tspan font-weight="600">15%</tspan> after 22:00 · <tspan class="k-m">1,575 commits · 7 days a week</tspan></text>
+<text xml:space="preserve" x="22" y="306" class="k-t" font-size="12.5">peak <tspan font-weight="600">11:00</tspan> · busiest <tspan font-weight="600">Thu</tspan> · <tspan font-weight="600">16%</tspan> after 22:00 · <tspan class="k-m">1,677 commits · 7 days a week</tspan></text>
 </g>
 <rect x="0.5" y="0.5" width="899" height="323" rx="8" fill="none" stroke="#d1d9e0"/>
 </svg>
