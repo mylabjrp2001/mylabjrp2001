@@ -17,38 +17,38 @@
 <text xml:space="preserve" x="22" y="66" class="k-t" font-size="13"><tspan class="k-b" font-weight="600">expo-persistent-background-location</tspan><tspan class="k-g" font-weight="600">@0.1.3</tspan> <tspan class="k-m">| MIT | deps: 0 | versions: 4</tspan></text>
 <text xml:space="preserve" x="22" y="88" class="k-t k-m" font-size="13">Free, open-source Expo module for continuous background GPS that survives app-kill.</text>
 <text xml:space="preserve" x="22" y="128" class="k-t k-m" font-size="13">downloads</text>
-<text xml:space="preserve" x="132" y="128" class="k-t" font-size="22" font-weight="700">506</text>
+<text xml:space="preserve" x="132" y="128" class="k-t" font-size="22" font-weight="700">545</text>
 <text xml:space="preserve" x="183.7" y="128" class="k-t k-m" font-size="13">last 30 days</text>
-<rect x="301.6" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
-<rect x="320.9" y="125.1" width="17.3" height="4.9" rx="1" fill="#2ea043"/>
-<rect x="340.2" y="116.9" width="17.3" height="13.1" rx="1" fill="#2ea043"/>
-<rect x="359.5" y="122.2" width="17.3" height="7.8" rx="1" fill="#2ea043"/>
-<rect x="378.8" y="124.2" width="17.3" height="5.8" rx="1" fill="#2ea043"/>
-<rect x="398" y="126.1" width="17.3" height="3.9" rx="1" fill="#2ea043"/>
-<rect x="417.3" y="127.6" width="17.3" height="2.4" rx="1" fill="#2ea043"/>
-<rect x="436.6" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
-<rect x="455.9" y="108.6" width="17.3" height="21.4" rx="1" fill="#2ea043"/>
-<rect x="475.2" y="117.9" width="17.3" height="12.1" rx="1" fill="#2ea043"/>
-<rect x="494.4" y="119.3" width="17.3" height="10.7" rx="1" fill="#2ea043"/>
-<rect x="513.7" y="124.7" width="17.3" height="5.3" rx="1" fill="#2ea043"/>
-<rect x="533" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
-<rect x="552.3" y="126.6" width="17.3" height="3.4" rx="1" fill="#2ea043"/>
-<rect x="571.5" y="117.9" width="17.3" height="12.1" rx="1" fill="#2ea043"/>
-<rect x="590.8" y="119.3" width="17.3" height="10.7" rx="1" fill="#2ea043"/>
-<rect x="610.1" y="96" width="17.3" height="34" rx="1" fill="#2ea043"/>
-<rect x="629.4" y="99.4" width="17.3" height="30.6" rx="1" fill="#2ea043"/>
+<rect x="301.6" y="125.1" width="17.3" height="4.9" rx="1" fill="#2ea043"/>
+<rect x="320.9" y="116.9" width="17.3" height="13.1" rx="1" fill="#2ea043"/>
+<rect x="340.2" y="122.2" width="17.3" height="7.8" rx="1" fill="#2ea043"/>
+<rect x="359.5" y="124.2" width="17.3" height="5.8" rx="1" fill="#2ea043"/>
+<rect x="378.8" y="126.1" width="17.3" height="3.9" rx="1" fill="#2ea043"/>
+<rect x="398" y="127.6" width="17.3" height="2.4" rx="1" fill="#2ea043"/>
+<rect x="417.3" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
+<rect x="436.6" y="108.6" width="17.3" height="21.4" rx="1" fill="#2ea043"/>
+<rect x="455.9" y="117.9" width="17.3" height="12.1" rx="1" fill="#2ea043"/>
+<rect x="475.2" y="119.3" width="17.3" height="10.7" rx="1" fill="#2ea043"/>
+<rect x="494.4" y="124.7" width="17.3" height="5.3" rx="1" fill="#2ea043"/>
+<rect x="513.7" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
+<rect x="533" y="126.6" width="17.3" height="3.4" rx="1" fill="#2ea043"/>
+<rect x="552.3" y="117.9" width="17.3" height="12.1" rx="1" fill="#2ea043"/>
+<rect x="571.5" y="119.3" width="17.3" height="10.7" rx="1" fill="#2ea043"/>
+<rect x="590.8" y="96" width="17.3" height="34" rx="1" fill="#2ea043"/>
+<rect x="610.1" y="99.4" width="17.3" height="30.6" rx="1" fill="#2ea043"/>
+<rect x="629.4" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
 <rect x="648.7" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
-<rect x="667.9" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
-<rect x="687.2" y="125.1" width="17.3" height="4.9" rx="1" fill="#2ea043"/>
-<rect x="706.5" y="106.2" width="17.3" height="23.8" rx="1" fill="#2ea043"/>
-<rect x="725.8" y="116.4" width="17.3" height="13.6" rx="1" fill="#2ea043"/>
-<rect x="745.1" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
-<rect x="764.3" y="126.6" width="17.3" height="3.4" rx="1" fill="#2ea043"/>
-<rect x="783.6" y="125.6" width="17.3" height="4.4" rx="1" fill="#2ea043"/>
-<rect x="802.9" y="128.1" width="17.3" height="1.9" rx="1" fill="#2ea043"/>
+<rect x="667.9" y="125.1" width="17.3" height="4.9" rx="1" fill="#2ea043"/>
+<rect x="687.2" y="106.2" width="17.3" height="23.8" rx="1" fill="#2ea043"/>
+<rect x="706.5" y="116.4" width="17.3" height="13.6" rx="1" fill="#2ea043"/>
+<rect x="725.8" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
+<rect x="745.1" y="126.6" width="17.3" height="3.4" rx="1" fill="#2ea043"/>
+<rect x="764.3" y="125.6" width="17.3" height="4.4" rx="1" fill="#2ea043"/>
+<rect x="783.6" y="128.1" width="17.3" height="1.9" rx="1" fill="#2ea043"/>
+<rect x="802.9" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
 <rect x="822.2" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
-<rect x="841.4" y="128.5" width="17.3" height="1.5" rx="1" fill="#2ea043"/>
-<rect x="860.7" y="115.9" width="17.3" height="14.1" rx="1" fill="#2ea043"/>
+<rect x="841.4" y="115.9" width="17.3" height="14.1" rx="1" fill="#2ea043"/>
+<rect x="860.7" y="111.1" width="17.3" height="18.9" rx="1" fill="#2ea043"/>
 <text xml:space="preserve" x="22" y="158" class="k-t k-m" font-size="13">peer deps</text>
 <text xml:space="preserve" x="132" y="158" class="k-t" font-size="13">expo · react · react-native</text>
 <text xml:space="preserve" x="22" y="180" class="k-t k-m" font-size="13">platforms</text>

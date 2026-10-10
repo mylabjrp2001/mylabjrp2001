@@ -14,25 +14,25 @@
 <line x1="0" y1="35.5" x2="445" y2="35.5" stroke="#d1d9e0"/>
 <circle cx="18" cy="18" r="5.5" fill="#ff5f57"/><circle cx="36" cy="18" r="5.5" fill="#febc2e"/><circle cx="54" cy="18" r="5.5" fill="#28c840"/>
 <text xml:space="preserve" x="72" y="22.5" class="k-t k-m" font-size="12.5">$ linguist --all-repos</text>
-<g clip-path="url(#k-lb)"><rect x="22" y="60" width="131.5" height="10" fill="#f1e05a"/><rect x="153.5" y="60" width="78.4" height="10" fill="#3178c6"/><rect x="231.9" y="60" width="72.4" height="10" fill="#3572A5"/><rect x="304.3" y="60" width="66.5" height="10" fill="#e34c26"/><rect x="370.8" y="60" width="28.7" height="10" fill="#882B0F"/><rect x="399.5" y="60" width="23.5" height="10" fill="#59636e"/></g>
+<g clip-path="url(#k-lb)"><rect x="22" y="60" width="131.5" height="10" fill="#f1e05a"/><rect x="153.5" y="60" width="77.6" height="10" fill="#3178c6"/><rect x="231.1" y="60" width="74.1" height="10" fill="#3572A5"/><rect x="305.2" y="60" width="65.8" height="10" fill="#e34c26"/><rect x="371" y="60" width="28.8" height="10" fill="#882B0F"/><rect x="399.7" y="60" width="23.3" height="10" fill="#59636e"/></g>
 <circle cx="27" cy="93.5" r="5" fill="#f1e05a"/>
 <text xml:space="preserve" x="40" y="98" class="k-t" font-size="13">JavaScript</text>
 <text xml:space="preserve" x="423" y="98" class="k-t k-m" font-size="13" text-anchor="end">32.8%</text>
 <circle cx="27" cy="117.5" r="5" fill="#3178c6"/>
 <text xml:space="preserve" x="40" y="122" class="k-t" font-size="13">TypeScript</text>
-<text xml:space="preserve" x="423" y="122" class="k-t k-m" font-size="13" text-anchor="end">19.6%</text>
+<text xml:space="preserve" x="423" y="122" class="k-t k-m" font-size="13" text-anchor="end">19.4%</text>
 <circle cx="27" cy="141.5" r="5" fill="#3572A5"/>
 <text xml:space="preserve" x="40" y="146" class="k-t" font-size="13">Python</text>
-<text xml:space="preserve" x="423" y="146" class="k-t k-m" font-size="13" text-anchor="end">18.1%</text>
+<text xml:space="preserve" x="423" y="146" class="k-t k-m" font-size="13" text-anchor="end">18.5%</text>
 <circle cx="27" cy="165.5" r="5" fill="#e34c26"/>
 <text xml:space="preserve" x="40" y="170" class="k-t" font-size="13">HTML</text>
-<text xml:space="preserve" x="423" y="170" class="k-t k-m" font-size="13" text-anchor="end">16.6%</text>
+<text xml:space="preserve" x="423" y="170" class="k-t k-m" font-size="13" text-anchor="end">16.4%</text>
 <circle cx="27" cy="189.5" r="5" fill="#882B0F"/>
 <text xml:space="preserve" x="40" y="194" class="k-t" font-size="13">ActionScript</text>
-<text xml:space="preserve" x="423" y="194" class="k-t k-m" font-size="13" text-anchor="end">7.1%</text>
+<text xml:space="preserve" x="423" y="194" class="k-t k-m" font-size="13" text-anchor="end">7.2%</text>
 <circle cx="27" cy="213.5" r="5" fill="#59636e"/>
 <text xml:space="preserve" x="40" y="218" class="k-t" font-size="13">Other</text>
-<text xml:space="preserve" x="423" y="218" class="k-t k-m" font-size="13" text-anchor="end">5.9%</text>
+<text xml:space="preserve" x="423" y="218" class="k-t k-m" font-size="13" text-anchor="end">5.8%</text>
 </g>
 <rect x="0.5" y="0.5" width="444" height="239" rx="8" fill="none" stroke="#d1d9e0"/>
 </svg>
