@@ -145,11 +145,12 @@
 <circle cx="591.1" cy="247" r="8.3" fill="#1a7f37"/>
 <circle cx="624.9" cy="247" r="7.3" fill="#1a7f37"/>
 <circle cx="658.6" cy="247" r="2.6" fill="#1a7f37"/>
-<circle cx="726.1" cy="247" r="2.6" fill="#1a7f37"/>
+<circle cx="692.4" cy="247" r="1.8" fill="#1a7f37"/>
+<circle cx="726.1" cy="247" r="3.6" fill="#1a7f37"/>
 <circle cx="759.9" cy="247" r="3.2" fill="#1a7f37"/>
 <circle cx="793.6" cy="247" r="4.5" fill="#1a7f37"/>
-<circle cx="827.4" cy="247" r="5.5" fill="#1a7f37"/>
-<circle cx="861.1" cy="247" r="6" fill="#1a7f37"/>
+<circle cx="827.4" cy="247" r="5.8" fill="#1a7f37"/>
+<circle cx="861.1" cy="247" r="6.6" fill="#1a7f37"/>
 <text xml:space="preserve" x="84.9" y="278" class="k-t k-m" font-size="11.5" text-anchor="middle">00:00</text>
 <text xml:space="preserve" x="186.1" y="278" class="k-t k-m" font-size="11.5" text-anchor="middle">03:00</text>
 <text xml:space="preserve" x="287.4" y="278" class="k-t k-m" font-size="11.5" text-anchor="middle">06:00</text>
@@ -158,7 +159,7 @@
 <text xml:space="preserve" x="591.1" y="278" class="k-t k-m" font-size="11.5" text-anchor="middle">15:00</text>
 <text xml:space="preserve" x="692.4" y="278" class="k-t k-m" font-size="11.5" text-anchor="middle">18:00</text>
 <text xml:space="preserve" x="793.6" y="278" class="k-t k-m" font-size="11.5" text-anchor="middle">21:00</text>
-<text xml:space="preserve" x="22" y="306" class="k-t" font-size="12.5">peak <tspan font-weight="600">11:00</tspan> · busiest <tspan font-weight="600">Fri</tspan> · <tspan font-weight="600">16%</tspan> after 22:00 · <tspan class="k-m">1,949 commits · 7 days a week</tspan></text>
+<text xml:space="preserve" x="22" y="306" class="k-t" font-size="12.5">peak <tspan font-weight="600">11:00</tspan> · busiest <tspan font-weight="600">Fri</tspan> · <tspan font-weight="600">16%</tspan> after 22:00 · <tspan class="k-m">1,955 commits · 7 days a week</tspan></text>
 </g>
 <rect x="0.5" y="0.5" width="899" height="323" rx="8" fill="none" stroke="#d1d9e0"/>
 </svg>
