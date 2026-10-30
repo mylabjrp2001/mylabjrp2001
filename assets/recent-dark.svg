@@ -15,30 +15,30 @@
 <circle cx="18" cy="18" r="5.5" fill="#ff5f57"/><circle cx="36" cy="18" r="5.5" fill="#febc2e"/><circle cx="54" cy="18" r="5.5" fill="#28c840"/>
 <text xml:space="preserve" x="72" y="22.5" class="k-t k-m" font-size="12.5">$ git log --since=&quot;30 days ago&quot; --by-repo</text>
 <text xml:space="preserve" x="22" y="68" class="k-t" font-size="13">ninja2uu</text>
-<rect x="171" y="58.5" width="651" height="9" rx="2" fill="#2ea043"/>
-<text xml:space="preserve" x="878" y="68" class="k-t k-m" font-size="13" text-anchor="end">1,167</text>
+<rect x="147.6" y="58.5" width="674.4" height="9" rx="2" fill="#2ea043"/>
+<text xml:space="preserve" x="878" y="68" class="k-t k-m" font-size="13" text-anchor="end">1,173</text>
 <text xml:space="preserve" x="22" y="92" class="k-t" font-size="13">hr-office</text>
-<rect x="171" y="82.5" width="281.7" height="9" rx="2" fill="#2ea043"/>
-<text xml:space="preserve" x="878" y="92" class="k-t k-m" font-size="13" text-anchor="end">505</text>
+<rect x="147.6" y="82.5" width="270.2" height="9" rx="2" fill="#2ea043"/>
+<text xml:space="preserve" x="878" y="92" class="k-t k-m" font-size="13" text-anchor="end">470</text>
 <text xml:space="preserve" x="22" y="116" class="k-t" font-size="13">hippoair</text>
-<rect x="171" y="106.5" width="143.4" height="9" rx="2" fill="#2ea043"/>
-<text xml:space="preserve" x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">257</text>
+<rect x="147.6" y="106.5" width="150.6" height="9" rx="2" fill="#2ea043"/>
+<text xml:space="preserve" x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">262</text>
 <text xml:space="preserve" x="22" y="140" class="k-t" font-size="13">ads-analysis</text>
-<rect x="171" y="130.5" width="109.9" height="9" rx="2" fill="#2ea043"/>
-<text xml:space="preserve" x="878" y="140" class="k-t k-m" font-size="13" text-anchor="end">197</text>
+<rect x="147.6" y="130.5" width="113.8" height="9" rx="2" fill="#2ea043"/>
+<text xml:space="preserve" x="878" y="140" class="k-t k-m" font-size="13" text-anchor="end">198</text>
 <text xml:space="preserve" x="22" y="164" class="k-t" font-size="13">dmp-fb-runner</text>
-<rect x="171" y="154.5" width="74.2" height="9" rx="2" fill="#2ea043"/>
-<text xml:space="preserve" x="878" y="164" class="k-t k-m" font-size="13" text-anchor="end">133</text>
+<rect x="147.6" y="154.5" width="87.4" height="9" rx="2" fill="#2ea043"/>
+<text xml:space="preserve" x="878" y="164" class="k-t k-m" font-size="13" text-anchor="end">152</text>
 <text xml:space="preserve" x="22" y="188" class="k-t" font-size="13">bill-dashboard</text>
-<rect x="171" y="178.5" width="73.1" height="9" rx="2" fill="#2ea043"/>
+<rect x="147.6" y="178.5" width="75.3" height="9" rx="2" fill="#2ea043"/>
 <text xml:space="preserve" x="878" y="188" class="k-t k-m" font-size="13" text-anchor="end">131</text>
 <text xml:space="preserve" x="22" y="212" class="k-t" font-size="13">baanmefaiprd</text>
-<rect x="171" y="202.5" width="50.8" height="9" rx="2" fill="#2ea043"/>
+<rect x="147.6" y="202.5" width="52.3" height="9" rx="2" fill="#2ea043"/>
 <text xml:space="preserve" x="878" y="212" class="k-t k-m" font-size="13" text-anchor="end">91</text>
-<text xml:space="preserve" x="22" y="236" class="k-t" font-size="13">baanmefai-chatbot</text>
-<rect x="171" y="226.5" width="21.2" height="9" rx="2" fill="#2ea043"/>
-<text xml:space="preserve" x="878" y="236" class="k-t k-m" font-size="13" text-anchor="end">38</text>
-<text xml:space="preserve" x="22" y="268" class="k-t k-m" font-size="12.5">2,722 commits across 25 repos · top 8 shown</text>
+<text xml:space="preserve" x="22" y="236" class="k-t" font-size="13">ais-3bb-python</text>
+<rect x="147.6" y="226.5" width="30.5" height="9" rx="2" fill="#2ea043"/>
+<text xml:space="preserve" x="878" y="236" class="k-t k-m" font-size="13" text-anchor="end">53</text>
+<text xml:space="preserve" x="22" y="268" class="k-t k-m" font-size="12.5">2,758 commits across 27 repos · top 8 shown</text>
 </g>
 <rect x="0.5" y="0.5" width="899" height="289" rx="8" fill="none" stroke="#30363d"/>
 </svg>
