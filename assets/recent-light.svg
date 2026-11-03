@@ -15,30 +15,30 @@
 <circle cx="18" cy="18" r="5.5" fill="#ff5f57"/><circle cx="36" cy="18" r="5.5" fill="#febc2e"/><circle cx="54" cy="18" r="5.5" fill="#28c840"/>
 <text xml:space="preserve" x="72" y="22.5" class="k-t k-m" font-size="12.5">$ git log --since=&quot;30 days ago&quot; --by-repo</text>
 <text xml:space="preserve" x="22" y="68" class="k-t" font-size="13">ninja2uu</text>
-<rect x="147.6" y="58.5" width="674.4" height="9" rx="2" fill="#2da44e"/>
+<rect x="163.2" y="58.5" width="658.8" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="68" class="k-t k-m" font-size="13" text-anchor="end">1,173</text>
 <text xml:space="preserve" x="22" y="92" class="k-t" font-size="13">hr-office</text>
-<rect x="147.6" y="82.5" width="236.9" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="92" class="k-t k-m" font-size="13" text-anchor="end">412</text>
+<rect x="163.2" y="82.5" width="217.3" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="92" class="k-t k-m" font-size="13" text-anchor="end">387</text>
 <text xml:space="preserve" x="22" y="116" class="k-t" font-size="13">hippoair</text>
-<rect x="147.6" y="106.5" width="158.1" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">275</text>
+<rect x="163.2" y="106.5" width="157.8" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">281</text>
 <text xml:space="preserve" x="22" y="140" class="k-t" font-size="13">ads-analysis</text>
-<rect x="147.6" y="130.5" width="115.6" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="140" class="k-t k-m" font-size="13" text-anchor="end">201</text>
+<rect x="163.2" y="130.5" width="106.7" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="140" class="k-t k-m" font-size="13" text-anchor="end">190</text>
 <text xml:space="preserve" x="22" y="164" class="k-t" font-size="13">dmp-fb-runner</text>
-<rect x="147.6" y="154.5" width="98.3" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="164" class="k-t k-m" font-size="13" text-anchor="end">171</text>
+<rect x="163.2" y="154.5" width="98.3" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="164" class="k-t k-m" font-size="13" text-anchor="end">175</text>
 <text xml:space="preserve" x="22" y="188" class="k-t" font-size="13">bill-dashboard</text>
-<rect x="147.6" y="178.5" width="75.3" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="188" class="k-t k-m" font-size="13" text-anchor="end">131</text>
-<text xml:space="preserve" x="22" y="212" class="k-t" font-size="13">baanmefaiprd</text>
-<rect x="147.6" y="202.5" width="54" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="212" class="k-t k-m" font-size="13" text-anchor="end">94</text>
+<rect x="163.2" y="178.5" width="76.9" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="188" class="k-t k-m" font-size="13" text-anchor="end">137</text>
+<text xml:space="preserve" x="22" y="212" class="k-t" font-size="13">cloud-accounting</text>
+<rect x="163.2" y="202.5" width="61.2" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="212" class="k-t k-m" font-size="13" text-anchor="end">109</text>
 <text xml:space="preserve" x="22" y="236" class="k-t" font-size="13">ninja2uu-cs</text>
-<rect x="147.6" y="226.5" width="52.3" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="236" class="k-t k-m" font-size="13" text-anchor="end">91</text>
-<text xml:space="preserve" x="22" y="268" class="k-t k-m" font-size="12.5">2,894 commits across 27 repos · top 8 shown</text>
+<rect x="163.2" y="226.5" width="59.5" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="236" class="k-t k-m" font-size="13" text-anchor="end">106</text>
+<text xml:space="preserve" x="22" y="268" class="k-t k-m" font-size="12.5">2,980 commits across 30 repos · top 8 shown</text>
 </g>
 <rect x="0.5" y="0.5" width="899" height="289" rx="8" fill="none" stroke="#d1d9e0"/>
 </svg>
