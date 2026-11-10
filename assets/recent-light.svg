@@ -16,29 +16,29 @@
 <text xml:space="preserve" x="72" y="22.5" class="k-t k-m" font-size="12.5">$ git log --since=&quot;30 days ago&quot; --by-repo</text>
 <text xml:space="preserve" x="22" y="68" class="k-t" font-size="13">ninja2uu</text>
 <rect x="163.2" y="58.5" width="658.8" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="68" class="k-t k-m" font-size="13" text-anchor="end">986</text>
+<text xml:space="preserve" x="878" y="68" class="k-t k-m" font-size="13" text-anchor="end">950</text>
 <text xml:space="preserve" x="22" y="92" class="k-t" font-size="13">hr-office</text>
-<rect x="163.2" y="82.5" width="187.7" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="92" class="k-t k-m" font-size="13" text-anchor="end">281</text>
+<rect x="163.2" y="82.5" width="208" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="92" class="k-t k-m" font-size="13" text-anchor="end">300</text>
 <text xml:space="preserve" x="22" y="116" class="k-t" font-size="13">hippoair</text>
-<rect x="163.2" y="106.5" width="184.4" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">276</text>
+<rect x="163.2" y="106.5" width="188.6" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">272</text>
 <text xml:space="preserve" x="22" y="140" class="k-t" font-size="13">ninja2uu-cs</text>
-<rect x="163.2" y="130.5" width="167" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="140" class="k-t k-m" font-size="13" text-anchor="end">250</text>
+<rect x="163.2" y="130.5" width="180.3" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="140" class="k-t k-m" font-size="13" text-anchor="end">260</text>
 <text xml:space="preserve" x="22" y="164" class="k-t" font-size="13">cloud-accounting</text>
-<rect x="163.2" y="154.5" width="122.9" height="9" rx="2" fill="#2da44e"/>
+<rect x="163.2" y="154.5" width="127.6" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="164" class="k-t k-m" font-size="13" text-anchor="end">184</text>
 <text xml:space="preserve" x="22" y="188" class="k-t" font-size="13">dmp-fb-runner</text>
-<rect x="163.2" y="178.5" width="119.6" height="9" rx="2" fill="#2da44e"/>
+<rect x="163.2" y="178.5" width="124.1" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="188" class="k-t k-m" font-size="13" text-anchor="end">179</text>
 <text xml:space="preserve" x="22" y="212" class="k-t" font-size="13">bill-dashboard</text>
-<rect x="163.2" y="202.5" width="98.9" height="9" rx="2" fill="#2da44e"/>
+<rect x="163.2" y="202.5" width="102.6" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="212" class="k-t k-m" font-size="13" text-anchor="end">148</text>
 <text xml:space="preserve" x="22" y="236" class="k-t" font-size="13">ais-3bb-python</text>
-<rect x="163.2" y="226.5" width="65.5" height="9" rx="2" fill="#2da44e"/>
+<rect x="163.2" y="226.5" width="68" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="236" class="k-t k-m" font-size="13" text-anchor="end">98</text>
-<text xml:space="preserve" x="22" y="268" class="k-t k-m" font-size="12.5">3,003 commits across 32 repos · top 8 shown</text>
+<text xml:space="preserve" x="22" y="268" class="k-t k-m" font-size="12.5">2,949 commits across 33 repos · top 8 shown</text>
 </g>
 <rect x="0.5" y="0.5" width="899" height="289" rx="8" fill="none" stroke="#d1d9e0"/>
 </svg>
