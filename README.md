@@ -20,45 +20,4 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg">
-  <img src="assets/neofetch-light.svg" alt="neofetch — the servers and dev machine behind these projects" width="100%">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/services-dark.svg">
-  <img src="assets/services-light.svg" alt="Health of the apps running in production, checked hourly" width="100%">
-</picture>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-    <img src="assets/activity-light.svg" alt="Contributions in the last 12 months, including private repositories" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-    <img src="assets/languages-light.svg" alt="Languages across all repositories, including private" width="49%">
-  </picture>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/punch-dark.svg">
-  <img src="assets/punch-light.svg" alt="Punch card of commits by weekday and hour over the last 90 days" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg">
-  <img src="assets/oss-light.svg" alt="expo-persistent-background-location on npm — version, downloads in the last 30 days" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/recent-dark.svg">
-  <img src="assets/recent-light.svg" alt="Commits per repository in the last 30 days" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
-  <img src="assets/snake-light.svg" alt="Contribution graph with a snake eating the cells" width="100%">
-</picture>
-
-<sub>Contact · <a href="https://workproth.com">workproth.com</a> · dev@workproth.com · Stats refresh daily via GitHub Actions — private repos are counted, never shown.</sub>
