@@ -20,25 +20,25 @@
 <text xml:space="preserve" x="22" y="92" class="k-t" font-size="13">hr-office</text>
 <rect x="163.2" y="82.5" width="480.7" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="92" class="k-t k-m" font-size="13" text-anchor="end">216</text>
-<text xml:space="preserve" x="22" y="116" class="k-t" font-size="13">hippoair</text>
-<rect x="163.2" y="106.5" width="447.3" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">201</text>
-<text xml:space="preserve" x="22" y="140" class="k-t" font-size="13">cloud-accounting</text>
-<rect x="163.2" y="130.5" width="445.1" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="140" class="k-t k-m" font-size="13" text-anchor="end">200</text>
-<text xml:space="preserve" x="22" y="164" class="k-t" font-size="13">dmp-fb-runner</text>
-<rect x="163.2" y="154.5" width="402.8" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="164" class="k-t k-m" font-size="13" text-anchor="end">181</text>
+<text xml:space="preserve" x="22" y="116" class="k-t" font-size="13">cloud-accounting</text>
+<rect x="163.2" y="106.5" width="445.1" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="116" class="k-t k-m" font-size="13" text-anchor="end">200</text>
+<text xml:space="preserve" x="22" y="140" class="k-t" font-size="13">dmp-fb-runner</text>
+<rect x="163.2" y="130.5" width="402.8" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="140" class="k-t k-m" font-size="13" text-anchor="end">181</text>
+<text xml:space="preserve" x="22" y="164" class="k-t" font-size="13">hippoair</text>
+<rect x="163.2" y="154.5" width="362.8" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="164" class="k-t k-m" font-size="13" text-anchor="end">163</text>
 <text xml:space="preserve" x="22" y="188" class="k-t" font-size="13">ais-3bb-python</text>
-<rect x="163.2" y="178.5" width="345" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="188" class="k-t k-m" font-size="13" text-anchor="end">155</text>
+<rect x="163.2" y="178.5" width="327.2" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="188" class="k-t k-m" font-size="13" text-anchor="end">147</text>
 <text xml:space="preserve" x="22" y="212" class="k-t" font-size="13">control-center</text>
 <rect x="163.2" y="202.5" width="198.1" height="9" rx="2" fill="#2da44e"/>
 <text xml:space="preserve" x="878" y="212" class="k-t k-m" font-size="13" text-anchor="end">89</text>
 <text xml:space="preserve" x="22" y="236" class="k-t" font-size="13">bill-dashboard</text>
-<rect x="163.2" y="226.5" width="146.9" height="9" rx="2" fill="#2da44e"/>
-<text xml:space="preserve" x="878" y="236" class="k-t k-m" font-size="13" text-anchor="end">66</text>
-<text xml:space="preserve" x="22" y="268" class="k-t k-m" font-size="12.5">1,936 commits across 33 repos · top 8 shown</text>
+<rect x="163.2" y="226.5" width="140.2" height="9" rx="2" fill="#2da44e"/>
+<text xml:space="preserve" x="878" y="236" class="k-t k-m" font-size="13" text-anchor="end">63</text>
+<text xml:space="preserve" x="22" y="268" class="k-t k-m" font-size="12.5">1,833 commits across 33 repos · top 8 shown</text>
 </g>
 <rect x="0.5" y="0.5" width="899" height="289" rx="8" fill="none" stroke="#d1d9e0"/>
 </svg>
